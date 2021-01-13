@@ -1,0 +1,26 @@
+.imgbox img {
+    width: 70px;
+}
+.categorybox {
+    border-radius: 20px;
+}
+.textbox {
+    position: relative;
+    left: 10px;
+}
+.cbutton {
+    background-color: rgb(223, 9, 159);
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.cff {
+    background-color: white;
+}
+.shoecategory {
+    background-color: white;
+}
+.subscribe {
+    background-color: #fceae8;
+    height: 300px;
+}
