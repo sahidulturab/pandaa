@@ -1,5 +1,6 @@
 body{
     margin: 0px auto;
+    /* background-color: #52a3f0; */
 }
 
 .imgbox img {
@@ -27,4 +28,7 @@ body{
 .subscribe {
     background-color: #fceae8;
     height: 300px;
+}
+.coon {
+    background-color: #fceae8;
 }
